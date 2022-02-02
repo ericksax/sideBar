@@ -41,7 +41,6 @@ input {
 .li_content {
   display: grid;
   align-items: center;
-  justify-content: center;
 
   padding: 2rem;
   border-radius: 16px;
@@ -162,7 +161,7 @@ main {
   height: 24px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  margin-left: 45px;
 }
 
 .open_menu .menu {
