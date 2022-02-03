@@ -3,9 +3,8 @@
   Projeto proposto nos desafios do programa de educação Discover da Rocketseat.
 Trata-se de uma simples barra lateral onde o usuário consegue interagir expandindo-a e acessando as opcões do menu.
 
-
+<div align="center">
 <img src="https://i.ibb.co/2qhVygF/20220202-125949.gif" width="900"  />
-<div style="margin: auto; background-color: red; width=900px; height:600px">
 </div>
 
 ## Tecnologias
