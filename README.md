@@ -2,7 +2,7 @@
 sidebar discover
 
 Projeto proposto nos desafios do programa de educação Discover da Rocketseat.
-Trata-se de uma simples barra lateral onde o usuário consegue interagir expandindo-a e acessando o menu.
+Trata-se de uma simples barra lateral onde o usuário consegue interagir expandindo-a e acessando as opcões do menu.
 
 ## Tecnologias
 
@@ -15,8 +15,8 @@ Trata-se de uma simples barra lateral onde o usuário consegue interagir expandi
 
 ## Start
 
-Você pode clonar o codigo e nao precisa de instalar nehuma dependencia para rodar.
+Você pode clonar o código e não precisa instalar nenhuma dependência para rodar, basta abrir o arquivo index.html no browser.
 
-thanks for all!!!
+Thanks for all!!!
 
 
